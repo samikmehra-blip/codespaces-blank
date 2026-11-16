@@ -1,0 +1,7 @@
+*.fits
+*.fit
+*.pth
+*.pt
+data/
+__pycache__/
+spherex-project.zip

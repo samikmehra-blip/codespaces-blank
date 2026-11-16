@@ -1,0 +1,15 @@
+{
+  "ra_deg": 337.8783221,
+  "dec_deg": -5.1891588,
+  "size_pixels": 256,
+  "before_file": "data/before.fits",
+  "after_file": "data/after.fits",
+  "before_date_obs": "2025-05-23T01:27:48.276",
+  "after_date_obs": "2026-05-20T21:38:04.643",
+  "display_percentiles": [
+    1,
+    99.5
+  ],
+  "aligned_coverage": 0.9901815878378378,
+  "alignment": "after image reprojected to before image WCS"
+}
